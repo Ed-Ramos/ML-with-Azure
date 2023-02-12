@@ -18,6 +18,9 @@ The goal of this classification problem is to predict if the client will subscri
 
 **The best performing model was a VotingEnsemble machine learning model obtained using AutoML.**
 
+
+![Optimizing an Pipeline.png](Optimizing%20an%20Pipeline.png)
+
 ## Scikit-learn Pipeline
 **The development of the pipeline begins with the creation of a python training script file. Within this file, the raw banking
 data is converted from a csv format to a Tabulardataset format. This data set is then passed to cleaning function which cleans
